@@ -1,0 +1,13 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "es",
+    "en-US"
+  ],
+  "tabSize": 2,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "vimMode": true
+}

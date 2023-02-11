@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "690a60ee3a4927dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "69df0681fd3fa2e4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Carlitos/Ingles/-16 Exercises.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a426e3543344bc1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6f0478604bdac25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16927dfc0290cac6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c1f22a5cbe6d007",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274.5
+  },
+  "right": {
+    "id": "821606ab9e2391d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d7444a1ba6b1631",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9edd6bacd8ef4a59",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Carlitos/Ingles/-16 Exercises.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "69df0681fd3fa2e4",
+  "lastOpenFiles": [
+    "Carlitos/Ingles/-15 Presente simple -- Negatica - Interrogatica.md",
+    "Carlitos/Ingles/-13 Preguntar y negar con adjetivos demostrativos.md",
+    "Carlitos/Ingles/-14 Simple present tense.md",
+    "Carlitos/Ingles/-12 Adjetivos demostrativos.md",
+    "Carlitos/Ingles/-11 How much.md",
+    "Carlitos/Ingles/-10 How many.md",
+    "Carlitos/Ingles/-9 Adjetivos calificativos.md",
+    "Carlitos/Ingles/-8 A - An --- There is - there are.md",
+    "Carlitos/Ingles/-7 Why - because- who.md",
+    "Carlitos/Ingles/-6 To be forma Corta - Negativa.md"
+  ]
+}
